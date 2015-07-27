@@ -1,6 +1,8 @@
 {
   "name": "diigo-cat",
   "version": "0.0.0",
+  "description": "",
+  "license": "Apache"
   "dependencies": {},
   "devDependencies": {
     "chai": "~3.2.0",
